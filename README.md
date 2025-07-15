@@ -12,9 +12,9 @@ This project visualizes and analyzes 20+ years (2001–2021) of crime data again
 - Dataset Link: [Kaggle](https://www.kaggle.com/)
 
 ## KPIs Created  
-1. **Total Crime Cases vs. Total Rape Cases**  
+1. **Total Crime Cases vs. Crime Type**  
    Highlights the proportion and severity of rape among overall crimes.  
-2. **State-wise Contribution to Total Rape Cases**  
+2. **State-wise Contribution to Crime Type**  
    Identifies high-burden regions (e.g., Madhya Pradesh, Uttar Pradesh) through treemap and choropleth visualizations.
 
 ## Visualizations Used  
