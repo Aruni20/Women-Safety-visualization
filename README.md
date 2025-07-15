@@ -1,6 +1,7 @@
 # Crimes Against Women in India – Interactive Dashboard
 ## Dashboard
 <img width="1367" height="771" alt="Image" src="https://github.com/user-attachments/assets/1a450605-d8ea-4c99-961e-976100466527" />
+
 ## Overview  
 This project visualizes and analyzes 20+ years (2001–2021) of crime data against women in India using an interactive dashboard. The aim is to simplify complex multivariate datasets into accessible visual insights for policy research, media communication, and public awareness.
 
